@@ -1,5 +1,3 @@
-//Edge の名前空間(browser) がなけれぱ chrome の名前空間を使用する
-// var browser = browser||chrome;
 //コンテキストメニューに拡張のメニューを追加
 chrome.contextMenus.create({
     id: 'periodBreakSelection',
